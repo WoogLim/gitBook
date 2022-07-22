@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page 1](README.md)
+## Rust Language
+
+* [Page 2](README.md)
