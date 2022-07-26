@@ -8,7 +8,7 @@
 
 ## SQL Querry - Oracle
 
-* [1. Group By](sql-querry-oracle/1.-group-by.md)
-* [2. ROLLLUP](sql-querry-oracle/2.-rolllup.md)
-* [3. JOIN](sql-querry-oracle/3.-join.md)
-* [4. SubQuerry](sql-querry-oracle/4.-subquerry.md)
+* [Group By](sql-querry-oracle/group-by.md)
+* [ROLLLUP](sql-querry-oracle/rolllup.md)
+* [JOIN](sql-querry-oracle/join.md)
+* [SubQuerry](sql-querry-oracle/subquerry.md)
